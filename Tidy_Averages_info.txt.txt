@@ -1,0 +1,5 @@
+Tidy_Averages Selection 
+=======================
+
+The file contains the averages for the mean and standard deviations grouped by Activity and Subject.
+Each column, excluding Activity and Subject, contains the averages for that particular feature for each activity and subject.
